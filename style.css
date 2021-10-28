@@ -87,7 +87,7 @@ justify-content: space-between;
 	border-radius: 32px;
 	background-color:rgb(200, 45, 231);
     color:white;
-	/* color: #ffffff; */
+	
 	font-weight: 600;
 	font-size: 0.94rem;
     font-family: "Poppins";
@@ -96,17 +96,19 @@ justify-content: space-between;
     margin-right: 30px;
 	text-decoration: none;
 	transition: all 0.2s;
+    transition: all 1s;
+    cursor: pointer;
 }
 .btn-1:hover{
     background-color: transparent;
-	color: #c2337b; /* needs to stay here because of the color property of a tag */
+	color: #000000;
+    font-size: 18px;
+    transition: all 1s;
 	text-decoration: none;
 }
 
 .box-2{
-     /* z-index:3; */
-     /* position: absolute; */
-     /* border:solid red 2px; */
+   
      height:15rem;
      margin:200px 0px;
      background: linear-gradient(115deg,rgb(59, 124, 245),rgb(235, 54, 211));
@@ -148,6 +150,36 @@ justify-content: space-between;
     margin-top: 16px;
 }
 
+/* body */
+
+.big-heading2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 15pc;
+    font-family: 'Poppins', sans-serif;
+}
+
+.head-content{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    height: 22pc;
+    font-weight: 400;
+    margin-top: -100px;
+
+}
+
+.line-1{
+    width: 40%;
+    margin-left: 28%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 /* Features */
 
