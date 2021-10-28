@@ -1,1 +1,3 @@
-# sehDev
+
+# 🩺 Project sehDev
+# by team VICECODES
