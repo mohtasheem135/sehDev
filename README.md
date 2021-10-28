@@ -5,7 +5,7 @@ sehDev is a platform where we aim to connect doctors and the patients in an effe
 
 In this Website patients can get advice from the expert team of doctors in the online mode and continue their treatment without facing any problem. They can also book the appointments and at their convenience and get the proper consultation.
 
-During the covid time we have seen that we all have technology but then also we are unable to use that technology to sove our problem more effectively. With this system we are trying to sove one of the major issues which we have faced during covid situations.<br/><br/>
+During the covid time we have seen that we all have technology but then also we are unable to use that technology to sove our problem more effectively. With this system we are trying to sove one of the major issues which we have faced during covid situations.<br/><br/><br/><br/><br/><br/>
 
 
 <img src="https://user-images.githubusercontent.com/85581658/139329418-f4e2558e-0738-401a-85dd-caecbf6d4797.jpg" >
@@ -13,7 +13,7 @@ On our  landing page users can register  and login to book an appointment with e
 
 
 # 🌐 Browser Support
-<h2>Firefox <h2/>| Google | Chrome | Safari | Edge | Opera
+Firefox | Google | Chrome | Safari | Edge | Opera
 
 # 💻 Operating System Support
 # Windows
