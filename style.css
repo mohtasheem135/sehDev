@@ -71,42 +71,14 @@ justify-content: space-between;
 
 .big-heading1{
     font-size:10rem;
-    /* border: solid red 3px; */
     font-weight:900;
     color: rgb(255, 253, 253);
-    /* -webkit-text-stroke: 0.1vw rgb(0, 0, 0); */
+    margin-top: 32px;
+    border-right: 2px solid white;
+    padding: 0px 22px;
 }
 
-/* .big-heading1::before{
-    content: attr(data-text);
-    position: absolute;
-    top: 40%;
-    left: 10%;
-    width: 0%;
-    height: 100%;
-    color: rgb(255, 255, 255);
-    -webkit-text-stroke: 0vw rgb(31, 31, 31); */
-    /* border-right: 2px solid white; */
-    /* overflow: hidden;
-    animation: animate 8s linear ;
-    animation-iteration-count: 1; */
-    
-}
- /* @keyframes animate{
-    0%,10%,100%{
-        width: 0%;
-    } 
-    70%,90%{
-        width: 100%;
-    }
-}  */
 
-
-.hed-2{
-    
-    /* border: solid rgb(3, 3, 3) 3px; */
-
-}
 
 .btn-1{
     display: inline-block;
@@ -188,20 +160,21 @@ justify-content: space-between;
     align-items: center;
     font-family: 'Poppins', sans-serif;
     color: rgb(255, 255, 255);
+    padding: 42px 0px;
 }
 
 .features-section{
     /* border: 2px solid black; */
     margin-top: 5%;
-    height: 60pc;
+    height: 53pc;
     background: linear-gradient(115deg,rgb(59, 124, 245),rgb(235, 54, 211));
 
     
 }
 
-.feature-1{
+/* .feature-1{
     
-}
+} */
 
 .feature-front{
     display: flex;
@@ -265,10 +238,12 @@ justify-content: space-between;
 .phone-text-1{
     margin-top: 20px;
     font-size: 0px;
+    color: black;
 }
 
 .phone-text-2{
     font-size: 0px;
+    color: black;
 }
 
 /* .contact-img{
@@ -292,7 +267,7 @@ justify-content: space-between;
     margin-top: 16px;
     font-size: 24px;
     transition: all 1s;
-    text-shadow: 2px 1px 4px black;
+    /* text-shadow: 2px 1px 4px black; */
 }
 
 .feature-1:hover .phone-text-2{
@@ -300,5 +275,100 @@ justify-content: space-between;
     font-weight: bold;
     margin-top: 22px;
     transition: all 1s;
-    text-shadow: 2px 1px 4px black;
+    /* text-shadow: 2px 1px 2px black; */
+}
+
+.footer{
+    /* border: 2px solid rgb(255, 255, 255); */
+    box-shadow: 0 0 12px black;
+    height: 16pc;
+    background-color: black;
+    display: flex;
+    padding:40px 60px;
+}
+
+.fab{
+    font-size: 4pc;
+    color: white;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-shadow: 2px 1px 3px rgb(223, 223, 223);
+}
+
+.fab:hover{
+    cursor: pointer;
+}
+
+.icon-container{
+    margin-left: 32%;
+}
+
+.footer-list{
+    /* border: 2px solid red; */
+    color: white;
+    /* float: left; */
+    margin-left: 12px;
+    margin-top: 42px;
+    
+    
+    
+}
+
+.footer-li-list{
+    /* display: flex; */
+    padding:40px 40px;
+    /* border: 2px solid green; */
+    list-style: none;
+    padding: 6px 12px;
+    cursor: pointer;
+    
+   
+}
+
+.footer-list-1{
+    /* border: 2px solid white; */
+    margin-top: 12px;
+    color: white;
+    margin-left: 12%;
+    margin-left: 3%;
+    margin-top: 42px;
+    
+    /* width: 30%; */
+}
+
+.footer-list-2{
+    /* border: 2px solid white; */
+    margin-top: 12px;
+    color: white;
+    margin-left: 3%;
+    margin-top: 42px;
+    /* width: 30%; */
+}
+
+.footer-li-list-1:hover{
+    color: thistle;
+    cursor: pointer;
+}
+
+.footer-li-list-2:hover{
+    color: thistle;
+    cursor: pointer;
+}
+
+.footer-li-list:hover{
+    color: thistle;
+    cursor: pointer;
+}
+
+.footer-li-list-1{
+    /* border: 2px solid orange; */
+    padding: 6px 12px;
+    list-style: none;
+}
+
+.footer-li-list-2{
+    /* border: 2px solid rgb(51, 41, 22); */
+    padding: -1px 52px;
+    list-style: none;
+    padding: 6px 12px;
 }
