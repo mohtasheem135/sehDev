@@ -13,7 +13,7 @@ During the covid time we have seen that we all have technology but then also we 
 On our  landing page users can register  and login to book an appointment with expert doctors who have excelled in their domains from hair , skin , gynaecology etc...We provide a wide range of services like medicine delivery , test sample pick up from home and providing reports online thus saving time of the patients.<br/><br/><br/><br/><br/><br/>
 
 <img src="https://user-images.githubusercontent.com/85581658/139329490-e82ecad4-22aa-4025-be58-8edded9b4116.jpg">
-Our application is very convenient to use ,helping users to book appointment according to their need  (24*7 availability )on just finger tips .Also our pricing system is very fair and reasonable ,other things like emergency contacts,tips and info really help the users to cure the patients as soon as possible<br/><br/><br/>
+Our application is very convenient to use ,helping users to book appointment according to their need  (24*7 availability )on just finger tips .Also our pricing system is very fair and reasonable ,other things like emergency contacts,tips and info really help the users to cure the patients as soon as possible. <br/><br/><br/>
 
 <hr/>
 
@@ -52,6 +52,11 @@ Git | GitHub
 
 # 🔰 Hosting Platform:
 GitHub
+  
+  # 📢 Contributars:
+• <a href="https://github.com/mohtasheem135">Mohtasheem Ejaz<a/>
+• <a href="https://github.com/Gaurav4code">Gaurav<a/>
+
 
 # References:
 W3 Schools | Geeks for Geeks | Stack Overflow | Tutorial | Github | Udemy | Coursera | Great Learning | Markdown
