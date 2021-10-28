@@ -73,11 +73,11 @@ justify-content: space-between;
     font-size:10rem;
     /* border: solid red 3px; */
     font-weight:900;
-    color: rgb(14, 13, 13);
-    -webkit-text-stroke: 0.1vw rgb(0, 0, 0);
+    color: rgb(255, 253, 253);
+    /* -webkit-text-stroke: 0.1vw rgb(0, 0, 0); */
 }
 
-.big-heading1::before{
+/* .big-heading1::before{
     content: attr(data-text);
     position: absolute;
     top: 40%;
@@ -85,7 +85,7 @@ justify-content: space-between;
     width: 0%;
     height: 100%;
     color: rgb(255, 255, 255);
-    -webkit-text-stroke: 0vw rgb(31, 31, 31);
+    -webkit-text-stroke: 0vw rgb(31, 31, 31); */
     /* border-right: 2px solid white; */
     /* overflow: hidden;
     animation: animate 8s linear ;
