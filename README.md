@@ -5,15 +5,15 @@
 
 In this Website patients can get advice from the expert team of doctors in the online mode and continue their treatment without facing any problem. They can also book the appointments and at their convenience and get the proper consultation.
 
-During the covid time we have seen that we all have technology but then also we are unable to use that technology to sove our problem more effectively. With this system we are trying to sove one of the major issues which we have faced during covid situations.<br/><br/><br/><br/><br/><br/>
-<hr/>
+During the covid time we have seen that we all have technology but then also we are unable to use that technology to sove our problem more effectively. With this system we are trying to sove one of the major issues which we have faced during covid situations.<br/><br/><br/><br/><br/><br/><br/>
+
 
 
 <img src="https://user-images.githubusercontent.com/85581658/139329418-f4e2558e-0738-401a-85dd-caecbf6d4797.jpg" >
-On our  landing page users can register  and login to book an appointment with expert doctors who have excelled in their domains from hair , skin , gynaecology etc...We provide a wide range of services like medicine delivery , test sample pick up from home and providing reports online thus saving time of the patients.<br/><br/><br/><br/>
+On our  landing page users can register  and login to book an appointment with expert doctors who have excelled in their domains from hair , skin , gynaecology etc...We provide a wide range of services like medicine delivery , test sample pick up from home and providing reports online thus saving time of the patients.<br/><br/><br/><br/><br/><br/>
 
 <img src="https://user-images.githubusercontent.com/85581658/139329490-e82ecad4-22aa-4025-be58-8edded9b4116.jpg">
-Our application is very convenient to use ,helping users to book appointment according to their need  (24*7 availability )on just finger tips .Also our pricing system is very fair and reasonable ,other things like emergency contacts,tips and info really help the users to cure the patients as soon as possible
+Our application is very convenient to use ,helping users to book appointment according to their need  (24*7 availability )on just finger tips .Also our pricing system is very fair and reasonable ,other things like emergency contacts,tips and info really help the users to cure the patients as soon as possible<br/><br/><br/>
 
 <hr/>
 
@@ -23,7 +23,7 @@ Firefox | Google | Chrome | Safari | Edge | Opera
 
 # 💻 Operating System Support
 # Windows
-Note: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now.
+<!-- Note: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now. -->
 
 <hr/>
 
