@@ -22,7 +22,7 @@ Our application is very convenient to use ,helping users to book appointment acc
 Firefox | Google | Chrome | Safari | Edge | Opera
 
 # 💻 Operating System Support
-# Windows
+Windows
 <!-- Note: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now. -->
 
 <hr/>
