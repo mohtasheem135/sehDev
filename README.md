@@ -54,7 +54,7 @@ Git | GitHub
 GitHub
 
 # References:
-W3 Schools | Geeks for Geeks | Stack Overflow | Tutorial | Github | SAWO Labs | Udemy | Coursera | Great Learning | Markdown
+W3 Schools | Geeks for Geeks | Stack Overflow | Tutorial | Github | Udemy | Coursera | Great Learning | Markdown
 
 
 
