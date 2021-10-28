@@ -13,7 +13,7 @@ On our  landing page users can register  and login to book an appointment with e
 
 
 # 🌐 Browser Support
-<<h2>Firefox <h2/>| Google | Chrome | Safari | Edge | Opera
+<h2>Firefox <h2/>| Google | Chrome | Safari | Edge | Opera
 
 # 💻 Operating System Support
 # Windows
