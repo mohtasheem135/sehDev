@@ -54,7 +54,7 @@ Git | GitHub
 GitHub
   
   # 📢 Contributars:
-• <a href="https://github.com/mohtasheem135">Mohtasheem Ejaz<a/>
+• <a href="https://github.com/mohtasheem135">Mohtasheem Ejaz<a/> <br/>
 • <a href="https://github.com/Gaurav4code">Gaurav<a/>
 
 
