@@ -1,7 +1,7 @@
 
 # 🩺 Project sehDev
 # by team VICECODE
-<b>sehDev <b/>is a platform where we aim to connect doctors and the patients in an effective and simple way. We all have witnessed and gone through the hardships of not getting of a health advice and treatments from the doctors during the coronavirus pandemic and many lives have also been lost due to the same reason. We can't bring back the dead ones, we don't wield that power but as an engineer it is our responsibility to solve this problem so that no more lives may lost due to this reason.
+<b>sehDev </b>is a platform where we aim to connect doctors and the patients in an effective and simple way. We all have witnessed and gone through the hardships of not getting of a health advice and treatments from the doctors during the coronavirus pandemic and many lives have also been lost due to the same reason. We can't bring back the dead ones, we don't wield that power but as an engineer it is our responsibility to solve this problem so that no more lives may lost due to this reason.
 
 In this Website patients can get advice from the expert team of doctors in the online mode and continue their treatment without facing any problem. They can also book the appointments and at their convenience and get the proper consultation.
 
