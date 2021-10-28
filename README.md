@@ -29,7 +29,7 @@ Note: Support for modern mobile browsers is experimental. The website is not res
 
 # 🎰 Deploy Project
 
-You can deploy SUSHRUTA... <a href="https://mohtasheem135.github.io/sehDev/">Click here...</a>
+You can visit the website <b>sehDev<b/>... <a href="https://mohtasheem135.github.io/sehDev/">Click here...</a>
 
 <hr/>
 
